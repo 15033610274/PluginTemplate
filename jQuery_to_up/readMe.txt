@@ -1,4 +1,3 @@
-# PluginTemplate
 猫巷の博客
 
 http://www.lovyou.top
